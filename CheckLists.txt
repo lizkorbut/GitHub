@@ -1,0 +1,4 @@
+Check list structure
+	1. ID
+	2. Text
+	3. Status (Passed/Blocked/Not Run)
